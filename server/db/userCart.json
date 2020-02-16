@@ -1,20 +1,5 @@
 {
-    "amount": 2,
-    "countGoods": 1,
-    "contents": [
-        {
-            "quantity": 1,
-            "id_product": "a001",
-            "img_src": "a001.jpg",
-            "product_name": "OMG scrunchie",
-            "collect": "accessories",
-            "category": "accessories",
-            "brand": "OMG",
-            "designer": "Devis-OMG",
-            "description": "Compellingly actualize fully researched processes before proactive outsourcing. Progressively syndicate collaborative architectures before cutting-edge services. Completely visualize parallel core competencies rather than exceptional portals.",
-            "material": "rubber, wool",
-            "size": "[xxs, xs, s, m, l, xl, xxl]",
-            "price": 2
-        }
-    ]
+    "amount": 0,
+    "countGoods": 0,
+    "contents": []
 }
